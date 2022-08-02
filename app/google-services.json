@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776680350145",
+    "project_id": "authapp-c2446",
+    "storage_bucket": "authapp-c2446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776680350145:android:da8d45e1f682c680704f40",
+        "android_client_info": {
+          "package_name": "com.firstapp.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776680350145-qg8tc73mlq0vpnbu25ttft281ov0ojfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XxDr0BZPrrpNvxa3EzmG-y6so6YFm_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776680350145-qg8tc73mlq0vpnbu25ttft281ov0ojfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
