@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
             startActivity(new Intent(LoginActivity.this, RegisterActivity.class));
         });
     }
-
+    //log the user with email and password
     private void loginUser(){
         String email = etLoginEmail.getText().toString();
         String password = etLoginPassword.getText().toString();
